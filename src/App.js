@@ -22,6 +22,10 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <footer>
+        This is footer tag
+      </footer>
     </div>
   );
 }
